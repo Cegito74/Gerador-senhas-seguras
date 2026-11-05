@@ -1,0 +1,3 @@
+# Python 3 (bibliotecas padrão)
+# Dependências externas: nenhuma
+# secrets, string e unittest fazem parte do Python.
