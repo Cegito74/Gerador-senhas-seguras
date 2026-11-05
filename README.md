@@ -72,3 +72,19 @@ O projeto permitiu aplicar conceitos de programação, testes, documentação e 
 A experiência demonstrou como a IA generativa pode contribuir para o desenvolvimento de software, desde que suas sugestões sejam revisadas, testadas e validadas.
 
 A responsabilidade pela qualidade e segurança do software continua sendo do desenvolvedor.
+
+## 9. Limitações
+
+- O projeto utiliza uma interface de linha de comando, sem interface gráfica.
+- A versão atual demonstra a geração automática de senhas, sem interação direta para personalização durante a execução.
+- As senhas geradas não são armazenadas ou gerenciadas pela aplicação.
+- O projeto depende de um ambiente com Python 3 instalado.
+
+## 10. Próximos Passos
+
+- Desenvolver uma interface gráfica para facilitar a utilização.
+- Permitir que o usuário personalize o tamanho e os tipos de caracteres durante a execução.
+- Ampliar os testes automatizados e a validação das configurações.
+- Implementar um indicador de força das senhas.
+- Automatizar os testes com GitHub Actions.
+
